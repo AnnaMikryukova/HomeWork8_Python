@@ -1,0 +1,6 @@
+Nikita, Mikryukov, 654321
+Ivan, Ivanov, 789456
+Petr, Petrov, 568123
+Masha, Tishko, 478545
+Olga, Kostina, 457896
+Anna, Mikryukova, 123456
